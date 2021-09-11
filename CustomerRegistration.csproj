@@ -171,6 +171,7 @@
     <Compile Include="Controllers\CustomersUnitTestingController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
+    <Compile Include="EntityModel\CustomerEntity.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
